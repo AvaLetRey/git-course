@@ -1,0 +1,20 @@
+**************************************************************************
+FILENAME: addcustomer
+**************************************************************************
+ABOUT THIS FILE
+
+AUTHOR IDENTITY:
+Initials Name/Company
+-------------------------------------------------------------------------
+rw Rick Wagonner ABC INC
+REVISION HISTORY:
+Date/Initials Comments
+-------------------------------------------------------------------------
+02/20/2020 rw Created for LoanApp 2.1
+*************************************************************************
+SCRIPT
+AddCustomer "csmith", "password", "Carla", "Smith", "ABC", "416-456-1111",
+"csmith@sample.com"
+
+AddCustomer "tjones", "password", "Tom", "Jones", "ABC", "416-456-2222",
+"tjones@sample.com"
