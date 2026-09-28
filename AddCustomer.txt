@@ -18,3 +18,12 @@ AddCustomer "csmith", "password", "Carla", "Smith", "ABC", "416-456-1111",
 
 AddCustomer "tjones", "password", "Tom", "Jones", "ABC", "416-456-2222",
 "tjones@sample.com"
+
+AddCustomer "mwong", "password", "Mary", "Wong", "ABC", "416-456-333",
+"mwong@sample.com"
+
+AddCustomer "bpark", "password", "Ben", "Park", "ABC", "416-456-444",
+"bpark@sample.com"
+
+AddCustomer "jlee", "password", "Julia", "Lee", "ABC", "416-456-555",
+"jlee@sample.com"
