@@ -29,3 +29,6 @@ AddCustomer "jlee", "password", "Julia", "Lee", "ABC", "416-456-555",
 "jlee@sample.com"
 
 To test new ideas
+
+AddCustomer "khan", "password", "Kevin", "Han", "ABC", "416-456-6666",
+"Khan@sample.com"
